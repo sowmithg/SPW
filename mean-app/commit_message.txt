@@ -1,1 +1,1 @@
-\"feat: initial commit of MEAN app\"  
+\"chore: remove temporary file\"  
